@@ -122,19 +122,6 @@ python main.py --image
 
 ![example-result](./docs/example-result.png)
 
-#### Dynamic display
-
-This mode is useful when you want to see how the agent reacts and interacts with its environment.
-
-To display the "dashboard", simply run :
-```sh
-python main.py --stream
-```
-Then enter the URL `localhost:5000` in your browser.
-
-![dashboard](./docs/board.png)
-
-**Note :**: It is recommended for a long training to not use this mode.
 
 ### Evaluation
 
