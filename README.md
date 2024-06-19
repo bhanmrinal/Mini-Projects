@@ -1,8 +1,6 @@
 # Deep Q-Network on the Atari Game Ms-Pacman
 
-<p align="center">
-  <img src="./docs/demo.gif"/>
-</p>
+![image](https://github.com/bhanmrinal/Ms-Pacman-Deep-Q-Network-/assets/97622240/a4d78f2e-79b0-433d-b2a6-6a898f0eb9e6)
 
 ## Basic information
 
